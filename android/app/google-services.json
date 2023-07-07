@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "227048986715",
+    "project_id": "demoproject-53c72",
+    "storage_bucket": "demoproject-53c72.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:227048986715:android:072f9b8cbf34f81d6ec77e",
+        "android_client_info": {
+          "package_name": "com.dataevolve"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "227048986715-4ghsb1tkb3tervgmru7jp3bp0glam1he.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2Nj4MEPM_oiNI-u3yFh2MC_EOOUVLGiw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "227048986715-4ghsb1tkb3tervgmru7jp3bp0glam1he.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
